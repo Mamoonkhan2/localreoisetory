@@ -1,3 +1,1 @@
-print("mamoonkhan")
-m = "hi "
-
+1
